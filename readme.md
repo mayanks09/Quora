@@ -109,7 +109,7 @@ http://localhost:3000
 
 ---
 
-## 📸 Application Screenshot
+## 📸 Application Preview
 
 ### 🏠 Landing Page
 
